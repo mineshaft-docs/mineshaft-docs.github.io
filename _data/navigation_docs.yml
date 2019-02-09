@@ -1,25 +1,15 @@
 - title: Getting Started
   docs:
   - home
-  - quickstart
-  - installation
-  - windows
 
-- title: Account and Billing
+- title: Mining Software
   docs:
-  - frontmatter
-  - posts
-  - drafts
-  - pages
+  - home
 
-- title: Customization
+- title: Mining Hardware 
   docs:
-  - usage
-  - structure
-  - configuration
+  - home
 
 - title: Troubleshooting
   docs:
-  - variables
-  - collections
-  - assets
+  - home
