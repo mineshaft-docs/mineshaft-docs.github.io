@@ -1,10 +1,5 @@
-# Footer navigation links
-
 - title: Help
   url: /
 
-- title: News
+- title: Posts
   url: /news/
-
-- title: Contact
-  url: /contact/

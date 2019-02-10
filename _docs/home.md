@@ -1,8 +1,9 @@
 ---
 layout: doc
-title: Creating new page in Jekyll and publishing
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: featured othertag
+title: What is crypto mining?
+subtitle: A breif introduction to cryptocurrency mining
+tags: featured
+author: hbeckeri
 ---
 
 #### Sections in this article

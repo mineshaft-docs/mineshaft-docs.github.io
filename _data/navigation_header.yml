@@ -1,12 +1,8 @@
-# Navbar menu navigation links
 - title: Help
   url: /
 
-- title: News
+- title: Posts
   url: /news/
 
 - title: Changelog
   url: /changelog/
-
-- title: Contact
-  url: /contact/

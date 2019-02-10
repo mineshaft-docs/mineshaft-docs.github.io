@@ -5,12 +5,7 @@
   icon: settings
   doc: home
 
-- title: Account and Billing
-  desc: Managing your account, creating new users and exporting data
-  icon: credit-card
-  doc: frontmatter
-
 - title: Troubleshooting
   desc: Answers to most common configuration issues
   icon: cog
-  doc: variables
+  doc: home
