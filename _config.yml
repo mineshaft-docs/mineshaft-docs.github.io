@@ -29,32 +29,34 @@ author:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-    peter:
-        name:       Peter Brown
-        github:     PressApps    # Github username for avatar
+    hbeckeri:
+        name:       Harrison 
+        github:     hbeckeri
+    ty:
+        name:       Ty
+        github:     yorktronic
 
-# Social icons displayed in footer
 social:
     email:
     website:
-    facebook:       https://www.facebook.com/
+    facebook:
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      https://www.instagram.com/
+    instagram:
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
+    twitter:        https://twitter.com/mineshaft_io
+    vimeo:
     youtube:
 
 # Twitter share button
-twitter_username:
+twitter_username: mineshaft_io
 
 # Default footer image settings
 footer:
-    copyright:      Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+    copyright
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
