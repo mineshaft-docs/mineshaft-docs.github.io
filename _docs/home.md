@@ -3,6 +3,7 @@ layout: doc
 title: What is crypto mining?
 subtitle: A breif introduction to cryptocurrency mining
 tags: featured
+date:   2019-02-09 10:52:42 -0500
 author: ty
 ---
 
