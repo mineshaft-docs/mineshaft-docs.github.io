@@ -1,15 +1,17 @@
 - title: Getting Started
   docs:
-  - home
+  - getting-started/introduction
+  - getting-started/hardware
+  - getting-started/algorithms
+  - getting-started/coins
+  - getting-started/pools
 
-- title: Mining Software
+- title: Advanced Topics
   docs:
-  - home
-
-- title: Mining Hardware 
-  docs:
-  - home
+  - advanced-topics/spec-mining
+  - advanced-topics/bios-mod
+  - advanced-topics/tuning
+  - advanced-topics/overclocking
 
 - title: Troubleshooting
   docs:
-  - home
